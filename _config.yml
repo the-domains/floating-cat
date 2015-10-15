@@ -1,6 +1,7 @@
 name: Floating Cat
 favicon: null
 layout_spectrum: 0.8
+title: Floating Cat
 cta:
   domain: null
   bucket: null
