@@ -1,6 +1,7 @@
 name: Floating Cat
 favicon: null
-layout_spectrum: 0.70787
+layout_spectrum: 0.72273
+typography_spectrum: 0.70208
 title: Floating Cat
 cta:
   domain: null
@@ -15,10 +16,15 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  brandColors:
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.6875
   rhythmicContrast: 0.5
 purpose:
   - name: shares
